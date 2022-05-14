@@ -9,8 +9,8 @@ import time
 import subprocess
 import wolframalpha
 import json
-import wolframalpha
 import requests
+import pyaudio
 import tts
 
 #function that greets user based on the time of day
